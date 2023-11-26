@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    MY PALETTE-->
+    <color name="primary1">#1363DF</color>
+    <color name="primary2">#47B5FF</color>
+    <color name="secondary">#AAC4FF</color>
+    <color name="secondary1">#D2DAFF</color>
+    <color name="secondary2">#DFF6FF</color>
+    <color name="secondary3">#EEF1FF</color>
+
+</resources>
